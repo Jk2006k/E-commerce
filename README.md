@@ -56,4 +56,4 @@ The project currently uses mock data and Local Storage.
 Supabase is already configured and can be connected for real authentication, database storage, and backend features.
 
 
-## Frontend Deployed Link: [Link](https://e-commerce-website-khaki-three.vercel.app/)]
+## Frontend Deployed Link: [Link](https://e-commerce-website-khaki-three.vercel.app/)
